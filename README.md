@@ -3,10 +3,10 @@
 - ⚡ Python | C | MySQL 
 - 🌱 I’m currently learning Advanced Python with OOP's and on the roadmap to DSA . Also interested in Web Dev.
 - 📫 How to reach me - nsubbu2004@gmail.com (personal) | sn0122@srmist.edu.in (college id)
-Links :
-HackerRank (Profile) : hackerrank.com/Subbuhacko
-LinkedIn  : 
-Instagram ID : subbu_uwu
+- Links :
+- HackerRank (Profile) : hackerrank.com/Subbuhacko
+- LinkedIn  : 
+- Instagram ID : subbu_uwu
 
 <!---
 subbuwu/subbuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
