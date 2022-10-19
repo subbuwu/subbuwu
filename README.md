@@ -5,7 +5,7 @@
 - 📫 How to reach me - nsubbu2004@gmail.com (personal) | sn0122@srmist.edu.in (college id)
 - Links :
 - HackerRank (Profile) : hackerrank.com/Subbuhacko
-- LinkedIn  : 
+- LinkedIn  : linkedin.com/in/subramanian-narayanan-52900624b
 - Instagram ID : subbu_uwu
 
 <!---
