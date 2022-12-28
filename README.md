@@ -8,7 +8,7 @@
 - LinkedIn  : linkedin.com/in/subramanian-narayanan-52900624b
 - Instagram ID : subbu_uwu
 
-[![Subbu's github stats](https://github-readme-stats.vercel.app/api?username=subbuwu&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/subbuwu/github-readme-stats)
+[![Subbu's github stats](https://github-readme-stats.vercel.app/api?username=subbuwu&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/subbuwu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subbuwu)](https://github.com/subbuwu/github-readme-stats)
 <!---
