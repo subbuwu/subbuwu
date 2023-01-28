@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subbuwu , a CS undergrad at SRM Institute of Science And Technology (2022-2026).
-- 💞️ 4⭐ HackerRank | Python Certified (HackerRank)
-- ⚡ Python | C | MySQL | HTML | CSS 
+- ⚡ Currently Coding with Python,C/C++.
+- ❤️ Working on a Competitive Programming Path with development side skills.
 - 🌱 Goals / Learning : -OOP , Web Development , DSA .
 - 📫 How to reach me - nsubbu2004@gmail.com (personal) | sn0122@srmist.edu.in (college id)
 - Links :
