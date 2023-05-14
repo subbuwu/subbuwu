@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @subbuwu , a CS undergrad who loves Computers and its working.<br>- ⚡ Currently Coding with Python, C/C++.<br>- ❤️ Aspiring Full Stack Developer with a strong passion for competitive programming.<br>- 🌱 Goals / Learning : OOP , Web Development , DSA .
-
+Hi there! My name is Subramanian and I'm currently pursuing my degree in Computer Science and Engineering at SRM. As an aspiring software engineer, I'm passionate about coding and exploring new technologies. My primary focus is on competitive programming, and I love the challenge of solving complex problems efficiently.
+Recently, I've been exploring web development and working on various personal projects to improve my skills. I'm excited to learn more about this field and contribute to building innovative and user-friendly web applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subbu_uwu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subramanian-narayanan-52900624b) 
