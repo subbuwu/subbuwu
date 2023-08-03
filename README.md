@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subramanian</h1>
-<h3 align="center">I'm currently pursuing my degree in Computer Science and Engineering at SRM. As an aspiring software engineer, I'm passionate about coding and exploring new technologies. I love the challenge of solving complex problems efficiently. I'm excited to learn more about this field and contribute to building innovative and user-friendly web applications.</h3>
+<h3 align="center">I'm currently pursuing my degree in Computer Science and Engineering at SRM. As an aspiring software engineer, I'm passionate about coding and exploring new technologies. I love the challenge of solving complex problems efficiently. I'm excited to learn more about this field and contribute to building innovative and user-friendly applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subbuwu&label=Profile%20views&color=0e75b6&style=flat" alt="subbuwu" /> </p>
 
