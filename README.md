@@ -2,7 +2,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="350" alt="animated hello">
 </div>
 
-# 💫 About Me:
+# <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"> About Me :
 🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
 🚀 Currently building and tinkering with Web apps<br>
 🕵️‍♂️ Learning about GenAI - LLMs,RAG<br>
