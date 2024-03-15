@@ -1,5 +1,8 @@
 # 💫 About Me:
-🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>🚀 A passionate frontend developer who is looking for exciting projects , looking forward to studying backend !<br>🕵️‍♂️ Currently learning NodeJS, Express, NextJS and Typescript <br>👀 Excellent and minimal designs all the way.
+🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
+🚀 Currently building and tinkering with Web apps<br>
+🕵️‍♂️ Learning about GenAI - LLMs,RAG<br>
+👀 Excellent and minimal designs all the way.
 
 
 
