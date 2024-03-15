@@ -2,11 +2,11 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="350" alt="animated hello">
 </div>
 
-# <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />  About Me </div> :
-🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
-🚀 Currently building and tinkering with Web apps<br>
-🕵️‍♂️ Learning about GenAI - LLMs,RAG<br>
-👀 Excellent and minimal designs all the way.
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />  About Me :
+### 🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
+### 🚀 Currently building and tinkering with Web apps<br>
+### 🕵️‍♂️ Learning about GenAI - LLMs,RAG<br>
+### 👀 Excellent and minimal designs all the way.
 
 
 
