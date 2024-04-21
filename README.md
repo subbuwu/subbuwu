@@ -4,9 +4,9 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="90" /> <br/> About Me :
 ### 🧚 Hello there! I'm Subramanian, a second-year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
-#### 🚀 Currently building and tinkering with Web apps<br>
-#### 🕵️‍♂️ Learning about Web3 | GenAI - LLMs,RAG<br>
-#### 👀 Excellent and minimal designs all the way.
+### 🚀 Currently building and tinkering with Web apps<br>
+### 🕵️‍♂️ Learning about Web3 | GenAI - LLMs,RAG<br>
+### 👀 Excellent and minimal designs all the way.
 
 
 <hr/>
