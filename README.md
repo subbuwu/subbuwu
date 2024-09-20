@@ -5,7 +5,7 @@
 ## About Me :
 ### 🧚 Hello there! I'm Subramanian, a pre-final year B.Tech student majoring in Computer Science at SRM University, Chennai.<br>
 ### 🚀 Currently building and tinkering with Web <br>
-### 🕵️‍♂️ Currently Learning about Backendl, LLMs & RAG<br>
+### 🕵️‍♂️ Currently Learning about Backend, LLMs & RAG<br>
 ### 👀 Excellent and minimal designs all the way.
 
 <hr/>
