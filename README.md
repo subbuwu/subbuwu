@@ -3,8 +3,7 @@
 </div>
 
 ## About Me :
-### 🧚 Hello there! I'm Subramanian, a final year B.Tech student majoring in Computer Science at SRM University, Chennai
-### 🚀 Currently building future of travel @elyx-travel 
+### 🧚 Hello there! I'm Subramanian, a final year B.Tech student majoring in Computer Science at SRM University
 
 <hr/>
 
