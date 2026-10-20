@@ -4,10 +4,10 @@
 
 I’m a software engineer interested in building practical, user-focused applications and exploring modern web technologies, backend development, and AI-powered systems.
 
-- 💻 Interested in software engineering, full-stack development, and developer tools
-- 🌱 Currently learning Python, FastAPI, and backend development
-- ⚡ Experienced with React, Next.js, TypeScript, and building reusable UI components
-- 🤝 Always open to learning, collaborating, and building interesting projects
+- Interested in software engineering, full-stack development, and developer tools
+- Currently learning Python, FastAPI, and backend development
+- Experienced with React, Next.js, TypeScript, and building reusable UI components
+- Always open to learning, collaborating, and building interesting projects
 
 ---
 
